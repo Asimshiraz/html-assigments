@@ -1,2 +1,5 @@
 # html-assigments
-My HTML basic projects and assignments
+This repo contains my first HTML assignments:
+-Basics HTML Assignment
+-home page
+Learning Software Development
